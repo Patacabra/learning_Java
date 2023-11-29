@@ -1,4 +1,6 @@
-# Repositorio de Java![1366_2000](https://github.com/Patacabra/learning_Java/assets/119629593/9f3898cb-a020-4ee1-be0a-9438a54ee722)
+# Repositorio de Java!
+![aprender-java-con-ubiqum-logo](https://github.com/Patacabra/learning_Java/assets/119629593/b15e01d2-bfac-4265-8c23-a4da0a7bf577)
+
 
 
 Este repositorio se ha creado como parte de mi aprendizaje en el Máster de Programación y desarrollo de aplicaciones de Cámara de Comercio y T-Systems. 
